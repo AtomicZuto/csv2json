@@ -1,0 +1,8 @@
+{
+    "name": "csv2jsontest",
+    "main": "index.js",
+    "dependencies": {
+        "csv2json": "^2.0.2",
+        "csvjson": "^5.1.0"
+    }
+}
